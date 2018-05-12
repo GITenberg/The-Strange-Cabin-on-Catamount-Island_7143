@@ -1,4 +1,8 @@
 _repo: The-Strange-Cabin-on-Catamount-Island_7143
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Leslie, Lawrence J.
@@ -8,6 +12,8 @@ description: And so Herb Benson dared you, Max, you say? "" ""That's what he did
   Steve. "" ""To camp on Catamount Island? "" ""And stay there a full week. He said
   that even if we did have nerve enough to make the try, he'd give us just one solitary
   night to hang out there! ""
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7143#The-Strange-Cabin-on-Catamount-Island
 gutenberg_issued: '2004-12-01'
 gutenberg_type: Text
 identifiers:
